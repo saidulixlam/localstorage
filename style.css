@@ -32,6 +32,13 @@ header {
     padding: 3rem 2rem;
 }
 
+.container2 {
+    margin: auto;
+    width: 800px;
+    overflow: auto;
+    padding: 2rem 2rem;
+}
+
 #my-form {
     padding: 2rem;
     background: #f4f4f4;
